@@ -1,0 +1,63 @@
+.blog{
+    width: 1800px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blog-list{
+    width: 1650px;
+    height: 330px;
+    margin-bottom: 50px;
+}
+.tec{
+    column-gap: 85px;
+}
+.UX{
+    background-image: url(../../assets/UX.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    border-radius: 20px;
+}
+.react {
+    background-image: url(../../assets/React.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    border-radius: 20px;
+}
+.php {
+    background-image: url(../../assets/PHP.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    border-radius: 20px;
+}
+.js {
+    background-image: url(../../assets/Javascript.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    border-radius: 20px;
+}

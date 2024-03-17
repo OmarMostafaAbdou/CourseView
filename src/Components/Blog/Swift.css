@@ -1,0 +1,22 @@
+.swift{
+    width: 1800px;
+    height: 650px;
+    background-color: #b0d6ffac;
+    /* padding:60px 100px; */
+    gap: 100px;
+}
+.swift-text{
+    /* width: 43%; */
+    width: 750px;
+    padding: 60px 80px;
+
+
+}
+.swift-img{
+    /* width: 46%; */
+    width: 780px;
+    height: 527px;
+    border-radius: 20px;
+    padding: 60px 0px;
+
+}
